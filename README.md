@@ -76,7 +76,3 @@ This project has been filed for patent protection.
 - Voice-based alerts
 - AI-powered obstacle classification
 
-
-
----
-
